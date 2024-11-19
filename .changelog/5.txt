@@ -1,0 +1,3 @@
+```release-note:dependency
+provider: bump apisec-inc/apisec-run-scan from 1.0.6 to 1.0.7
+```
