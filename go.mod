@@ -6,7 +6,7 @@ toolchain go1.22.5
 
 require (
 	github.com/agext/levenshtein v1.2.3 // indirect
-	github.com/cloudflare/cloudflare-go v0.109.0
+	github.com/cloudflare/cloudflare-go v0.110.0
 	github.com/fatih/color v1.16.0 // indirect
 	github.com/google/uuid v1.6.0
 	github.com/hashicorp/errwrap v1.1.0 // indirect
@@ -30,7 +30,7 @@ require (
 	golang.org/x/net v0.31.0
 	golang.org/x/sys v0.27.0 // indirect
 	golang.org/x/text v0.20.0 // indirect
-	golang.org/x/time v0.7.0 // indirect
+	golang.org/x/time v0.8.0 // indirect
 )
 
 require (
